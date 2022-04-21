@@ -41,4 +41,4 @@ edit question and context variables in test_script.py
 python test_script.py
 ------------------- OR ----------------
 
-run through inference_QA juputer notebook
+run through inference_QA jupyter notebook
