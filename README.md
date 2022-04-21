@@ -2,7 +2,7 @@
 NLP Project : Conditional Question Answering
 
 TEAM:
-Bhanu Sai Simha Vanam, Courtney Wilkerson , Keshav Bharadwaj, Morgan Levy
+Bhanu Sai Simha Vanam, Courtney Wilkerson , Keshav Bharadwaj Vaidyanathan, Morgan Levy
 
 
 
