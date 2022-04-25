@@ -35,7 +35,7 @@ python train_script.py --learning_rate 3e-4 --num_train_epochs 5 --per_device_tr
 Note: you can download the model which I trained using the link below. If you dont wish to train but to just test the model.
 
 LINK: 
-
+Model can be found in google drive :- https://drive.google.com/drive/folders/1cXHNbh_ZTOPJTheSmrM6WNAc1RMxbbqw?usp=sharing
 edit model path in test_script.py
 edit question and context variables in test_script.py
 python test_script.py
