@@ -1,5 +1,5 @@
 
-NLP Project : Conditional Question Answering
+NLP Project : SQuAD 2.0 Question Answering System using DistilBERT-based Model
 
 TEAM:
 Bhanu Sai Simha Vanam, Courtney Wilkerson , Keshav Bharadwaj Vaidyanathan, Morgan Levy
